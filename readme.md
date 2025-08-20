@@ -1,5 +1,3 @@
-view at [https://gwetchen.github.io/restoDruidResources/](https://gwetchen.github.io/restoDruidResources/)
-
 # Gearplanner/Browser:
 This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to restoration druid and to change the statweights to fit your spec if you want to make use of the score feature.   
 For example, I would value crit near or at 0 when playing a rejuv-tree spec.   
