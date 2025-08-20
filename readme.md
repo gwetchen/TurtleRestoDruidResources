@@ -1,15 +1,15 @@
 # Turtle WoW Resto Druid Resources 
 
-## Gearplanner/Browser:
+# Gearplanner/Browser:
 This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to restoration druid and to change the statweights to fit your spec if you want to make use of the score feature.   
-For example: I would value crit near or at 0 when playing a rejuv-tree spec.
+For example, I would value crit near or at 0 when playing a rejuv-tree spec.
 You can find it here: [pepopo978.gitlab.io/twow-gear-planner](https://pepopo978.gitlab.io/twow-gear-planner/)
 
-## Specs and their BIS lists:
+# Specs and their BIS lists:
 
 A few notes:
 
-- These are very much suggestions and examples, what works for you, in your raiding environment may be slightly different.
+- These are very much suggestions and examples. What works for you, in your raiding environment may be slightly different.
 
 - Tier 3 2set is a very strong setbonus, no matter what spec you choose to play. Once you have it, you should use empty globals to put rejuvs on your rogues/ferals. The rank doesn't seem to matter so it can be r1 if you don't think they'll take damage. Can also maintain on self for mana ticks.
 
