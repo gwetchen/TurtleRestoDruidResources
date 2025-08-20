@@ -31,7 +31,7 @@ For Naxx, if you don't have access to Crystal Adorned Crown, replace it with T3 
 For Kara40: 5 set 3.5 is very strong, if you do not care to play around it you can break set with Forgotten Hide Pauldrons for better stats.   
 T2 8/8 is a strong setbonus that accels in raid wide damage fights, worth keeping for a while.
 
-## Nature's Grace/Regrowth:  
+### Nature's Grace/Regrowth:  
 If another resto druid is playing tree you usually want to play this spec. It is quite mana hungry so with early gear you may be forced to skip Nature's Grace in favour of Tree of Life but this will reduce your throughput significantly.  
 You'll want to mostly spam downranked Regrowths. Rank 6 or 7 can be a good choice but try and see what works for you. Max rank is useful occasionally but quite expensive. While you are moving you should look to put up Rejuvenations. If possible, heal raid members that don't already have a regrowth hot on them but this isn't always an option.   
 
@@ -44,7 +44,7 @@ You'll want to mostly spam downranked Regrowths. Rank 6 or 7 can be a good choic
 **Talent Choices:**   
 There really isn't much choice here in 1.18. As mentioned above you can take ToL over Nature's Grace if your gear isn't great, but this will reduce your throughput significantly. Some players like to take Healing Touch talents and cast both spells but you give up a lot by taking those talent points elsewhere in 1.18.   
 
-## Nature's Grace/Healing Touch:   
+### Nature's Grace/Healing Touch:   
 This build is pretty mana efficient but rarely played anymore. Healing Touch having a long cast time doesn't fit the current healing meta very well and it's throughput isn't amazing. You'll mostly spam downranked HT. Rank 4 is popular due to it having a low cast time but still scaling well with HP. Many players will use 4 or more different ranks depending on the amount of healing needed.    
 Aessinas Bloom sinergizes decently well with having other restos use their hots. I haven't played this myself in quite a while so I can't give too much advice.    
 Talents are fairly locked in with 1.18.   
@@ -52,7 +52,7 @@ Talents are fairly locked in with 1.18.
 <a target="_blank" rel="noopener noreferrer" href="https://talents.turtle-wow.org/druid?points=oAAbYKAYAI--FAtABbFAQI">Example Talent Build</a> 
 
 
-## 0/0/51:   
+### 0/0/51:   
 This build doesn't excel at anthing like the others do, it's just kinda okay at everything. Rejuv spam loses the least value by ignoring the balance tree like this build does. I do not recommend this, but some value it's flexibility. 
 
 <a target="_blank" rel="noopener noreferrer" href="https://talents.turtle-wow.org/druid?points=--FAtoBbFFQLFQB">Example Talent Build</a> 
