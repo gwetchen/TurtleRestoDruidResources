@@ -1,5 +1,3 @@
-# Turtle WoW Resto Druid Resources 
-
 view at [https://gwetchen.github.io/restoDruidResources/](https://gwetchen.github.io/restoDruidResources/)
 
 # Gearplanner/Browser:
