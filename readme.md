@@ -1,6 +1,6 @@
 # Turtle WoW Resto Druid Resources 
 
-## Gearplanner/browser:
+## Gearplanner/Browser:
 This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to restoration druid and to change the statweights to fit your spec if you want to make use of the score feature.   
 For example: I would value crit near 0 when playing a rejuv-tree spec.
 You can find it here: [pepopo978.gitlab.io/twow-gear-planner](https://pepopo978.gitlab.io/twow-gear-planner/)
