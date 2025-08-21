@@ -12,7 +12,7 @@ A few notes:
 
 - Tier 3 2set is a very strong setbonus, no matter what spec you choose to play. Once you have it, you should use empty globals to put rejuvs on your rogues/ferals. The rank doesn't seem to matter so it can be r1 if you don't think they'll take damage. Can also maintain on self for mana ticks.
 
-- Both Gensis and Gift of Nature now scale with Healing Power as of 1.18.
+- Both Genesis and Gift of Nature now scale with Healing Power as of 1.18.
 
 ### Tree/Moonglow: 
 If you are the only resto druid in the raid, this is usually your go to. The tree aura provides a strong buff to your healing group.   
