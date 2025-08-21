@@ -61,4 +61,27 @@ This build doesn't excel at anthing like the others do, it's just kinda okay at 
 
 # Consumables
 
-soon
+- Brilliant Mana Oil (Tree spec) or Brilliant Wizard Oil (Nature's Grace specs)
+- Mageblood Potion  
+- Celebral Cortex Compound  
+- Dreamshard Elixir (Nature's Grace specs)
+- Flask of Distilled Wisdom   
+- Spirit of Zanza
+
+Food: 
+- Empowering Herbal Salad
+- Medivh's Merlot Blue
+
+Mana Consumes:  
+- Nordanaar Herbal Tea
+- Mana Potion
+
+Defensive Consumes: 
+- Limited Invulnerability Potion
+- Elixir of Fortitude  
+
+Notes:  
+- If you are on a progressing server not all of these may be available yet. 
+- If Kara40 has not released on your server, consider Nightfin Soup/Sweet Watermelon/Danonzo's Tel'abim Medley for your food buff.
+- Gizzard Gum does not stack with Spirit of Zanza. If you are using Swiftness of Zanza or don't have access to Zanzas yet you could consider using Gizzard Gum over Celebral Cortex Compound, mostly for Tree specs.
+- You can consider using Kreeg's Stout Beatdown when playing Tree but I don't think its worth it.
