@@ -1,5 +1,5 @@
 # Gearplanner/Browser:
-This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to restoration druid and to change the statweights to fit your spec if you want to make use of the score feature.   
+This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to Restoration Druid and to change the statweights to fit your spec if you want to make use of the score feature.   
 For example, I would value crit near or at 0 when playing a rejuv-tree spec.   
 You can find it here:
 <a target="_blank" rel="noopener noreferrer" href="https://pepopo978.gitlab.io/twow-gear-planner/">pepopo978.gitlab.io/twow-gear-planner</a>
@@ -15,7 +15,7 @@ A few notes:
 - Genesis and Gift of Nature both scale with Healing Power.
 
 ### Tree/Moonglow: 
-If you are the only resto druid in the raid, this is usually your go to. The tree aura provides a strong buff to your healing group.   
+If you are the only Resto Druid in the raid, this is usually your go to. The tree aura provides a strong buff to your healing group.   
 You'll want to mostly spam Rejuvenation, max rank is sustainable at relatively low gear levels. Mix in the occasional Regrowth when there are no good targets for a rejuv. Like in a fight where only the tank(s) take damage and already have rejuvs on them.   
 
 <a target="_blank" rel="noopener noreferrer" href="https://talents.turtle-wow.org/druid?points=oAAbIKAY--FAAoBbFAAKFQB">Example Talent Build</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -32,8 +32,8 @@ For Kara40: 5 set 3.5 is very strong, if you do not care to play around it you c
 T2 8/8 is a strong setbonus that accels in raid wide damage fights, worth keeping for a while.
 
 ### Nature's Grace/Regrowth:  
-If another resto druid is playing tree you usually want to play this spec. It is quite mana hungry so with early gear you may be forced to skip Nature's Grace in favour of Tree of Life but this will reduce your throughput significantly.  
-You'll want to mostly spam downranked Regrowths. Rank 6 or 7 can be a good choice but try and see what works for you. Max rank is useful occasionally but quite expensive. While you are moving you should look to put up Rejuvenations. If possible, heal raid members that don't already have a regrowth hot on them but this isn't always an option.   
+If another Resto Druid is playing tree you usually want to play this spec. It is quite mana hungry so with early gear you may be forced to skip Nature's Grace in favour of Tree of Life but this will reduce your throughput significantly.  
+You'll want to mostly spam downranked Regrowths. Rank 6 or 7 can be a good choice but try and see what works for you. Max rank is useful occasionally but quite expensive. While you are moving you should look to put up Rejuvenations. If possible, heal raid members that don't already have a Regrowth hot on them but this isn't always an option.   
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://talents.turtle-wow.org/druid?points=oAAbYKAYAI--FAFABbFCAIF">Example Talent Build</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -42,11 +42,11 @@ You'll want to mostly spam downranked Regrowths. Rank 6 or 7 can be a good choic
  
 
 **Talent Choices:**   
-There really isn't much choice here in 1.18. As mentioned above you can take ToL over Nature's Grace if your gear isn't great, but this will reduce your throughput significantly. Some players like to take Healing Touch talents and cast both spells but you give up a lot by taking those talent points elsewhere in 1.18.   
+There really isn't much choice here in 1.18. As mentioned above you can take ToL over Nature's Grace if your gear isn't great, but this will reduce your throughput significantly. Some players like to take Healing Touch talents and cast both spells but you give up a lot by taking those talent points away elsewhere in 1.18.   
 
 ### Nature's Grace/Healing Touch:   
 This build is pretty mana efficient but rarely played anymore. Healing Touch having a long cast time doesn't fit the current healing meta very well and it's throughput isn't amazing. You'll mostly spam downranked HT. Rank 4 is popular due to it having a low cast time but still scaling well with HP. Many players will use 4 or more different ranks depending on the amount of healing needed.    
-Aessinas Bloom sinergizes decently well with having other restos use their hots. I haven't played this myself in quite a while so I can't give too much advice.    
+Aessinas Bloom synergizes decently well with other Resto Druids using their hots. I haven't played this myself in quite a while so I can't give too much advice.    
 Talents are fairly locked in with 1.18.   
 
 <a target="_blank" rel="noopener noreferrer" href="https://talents.turtle-wow.org/druid?points=oAAbYKAYAI--FAtABbFAQI">Example Talent Build</a> 
