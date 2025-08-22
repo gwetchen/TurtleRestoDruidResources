@@ -24,6 +24,8 @@ A few notes:
 
 - Genesis and Gift of Nature both scale with Healing Power.
 
+- Most points in Balance are flexible, we mostly go there for Moonglow and Nature's Grace. The builds below just show what I prefer.
+
 ### Tree/Moonglow: 
 If you are the only Resto Druid in the raid, this is usually your go to. The tree aura provides a strong buff to your healing group.   
 You'll want to mostly spam Rejuvenation, max rank is sustainable at relatively low gear levels. Mix in the occasional Regrowth when there are no good targets for a rejuv. Like in a fight where only the tank(s) take damage and already have rejuvs on them.   
