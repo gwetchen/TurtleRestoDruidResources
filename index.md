@@ -1,5 +1,5 @@
 ---
-title: null
+title: TWoW Resto Druid Overview
 name: TWoW Resto Druid Overview
 description: TWoW Resto Druid Overview
 ---
