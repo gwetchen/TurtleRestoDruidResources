@@ -1,5 +1,4 @@
 ---
-name: TWoW Resto Druid Overview
 title: TWoW Resto Druid Overview
 description: TWoW Resto Druid Overview
 ---
