@@ -4,13 +4,17 @@ name: TWoW Resto Druid Overview
 description: TWoW Resto Druid Overview
 ---
 
-# Gearplanner/Browser:
+<h1 align="center">Turtle WoW Restoration Druid Overview</h1>    
+&nbsp;
+
+
+## Gearplanner/Browser:
 This is a great tool for getting an idea of what items are available and to plan your gearing. Make sure to switch it to Restoration Druid and to change the statweights to fit your spec if you want to make use of the score feature.   
 For example, I would value crit near or at 0 when playing a rejuv-tree spec.   
 You can find it here:
 <a target="_blank" rel="noopener noreferrer" href="https://pepopo978.gitlab.io/twow-gear-planner/">pepopo978.gitlab.io/twow-gear-planner</a>
 
-# Specs and their BIS lists:
+## Specs and their BIS lists:
 
 A few notes:
 
@@ -65,7 +69,7 @@ This build doesn't excel at anthing like the others do, it's just kinda okay at 
 
 &nbsp;
 
-# Consumables
+## Consumables
 
 - Brilliant Mana Oil (Tree spec) or Brilliant Wizard Oil (Nature's Grace specs)
 - Mageblood Potion  
